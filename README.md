@@ -1,8 +1,5 @@
 # MakeSquarePuzzle
-# about:
-This code was written by Mostafa El-Marzouki @iSuperMostafa
-
-# problem definition:
+## problem definition:
 Make a square with size 4*4 by using 4 or 5 pieces. <br>
 The pieces can be rotated or flipped and all pieces should be used to form a square.<br>
 There may be more than one possible solution for a set of pieces,<br>
